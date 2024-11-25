@@ -35,4 +35,8 @@ This calculator provides the following functionalities:
 ## How to Run  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/DaiyanaBrooks/ScientificCalculatorApp.git  
+   git clone https://github.com/DaiyanaBrooks/ScientificCalculatorApp.git
+
+## Acknowledgments
+- Developed as part of **COMP167 Major Programming Assignment 3**.
+- Special thanks to my professor and classmates for guidance and support.
